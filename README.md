@@ -1,4 +1,4 @@
 My first weather app
 
-Author: Jelle Traa
+Author: Jelle Traa <br>
 Subject: Weather API, Location API
